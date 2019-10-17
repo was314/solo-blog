@@ -10,12 +10,13 @@
 
 ### 最新
 
-* [Docker 常用命令](http://was4.tk/articles/2019/10/14/1571036476649.html)
-* [CentOS7 安装 Redis](http://was4.tk/articles/2019/10/10/1570675445009.html)
-* [java发送http请求，post上传文件，MultipartFile](http://was4.tk/articles/2019/10/09/1570597063271.html)
-* [安装 Jenkins](http://was4.tk/articles/2019/09/29/1569738314082.html)
-* [Centos安装Java，配置环境变量](http://was4.tk/articles/2019/09/29/1569738192216.html)
-* [Docker安装配置](http://was4.tk/articles/2019/09/29/1569737828587.html)
+* [Sunny-Ngrok实现自定义域名内网穿透](http://was4.cf/articles/2019/10/17/1571281836502.html)
+* [Docker 常用命令](http://was4.cf/articles/2019/10/14/1571036476649.html)
+* [CentOS7 安装 Redis](http://was4.cf/articles/2019/10/10/1570675445009.html)
+* [java发送http请求，post上传文件，MultipartFile](http://was4.cf/articles/2019/10/09/1570597063271.html)
+* [安装 Jenkins](http://was4.cf/articles/2019/09/29/1569738314082.html)
+* [Centos安装Java，配置环境变量](http://was4.cf/articles/2019/09/29/1569738192216.html)
+* [Docker安装配置](http://was4.cf/articles/2019/09/29/1569737828587.html)
 
 
 
